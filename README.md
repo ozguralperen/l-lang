@@ -132,13 +132,19 @@ It does not need any package requirements.
 ## Usage
 
 <p align="center">
+
 <img src="Images/Compiling.png" alt="Compiler" ></img>
 <img src="Images/Document.png" alt="Document" ></img>
 </p>
 
-After writing the codes for llang, simply run llang from the terminal as < file name >. If you want, 
+<p align="center" >After writing the codes for llang, simply run llang from the terminal as < file name >. If you want, 
 you can get the document (for approval if it is a contract, for review if it is a legal text) or 
-you can have it approved by the specific file number on your server.
+  you can have it approved by the specific file number on your server.</p>
+<p align = "center">
+<img src="Images/Github_Flow.png" alt="Flow" ></img>
+</p>
+
+
 
 
 _For more information (e.g. syntax) read [Documentation](https://github.com/ozguralperen/l-lang/tree/main/AnotherInformations)_
